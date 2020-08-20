@@ -1,3 +1,8 @@
+Introduction:
+A restaurant is a type of place where people come to eat and enjoy themselves in a social environment.
+Thus a restaurant business is really built upon their food being up to the mark and their environment and locale for it to be successful.
 This project would deal with a Customer trying to find the ideal place for himself to start a restaurant.
+
+Problem:
 The customer is aiming to get a location in Los Angeles that is already booming with food business and where his restaurant would flourish.
 Thus it is required to analyze the best location in the city which would provide them with the maximum amount of profit and customers.
