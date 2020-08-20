@@ -1,0 +1,11 @@
+Introduction:
+A restaurant is a type of place where people come to eat and enjoy themselves in a social environment.
+Thus a restaurant business is really built upon their food being up to the mark and their environment and locale for it to be successful.
+This project would deal with a Customer trying to find the ideal place for himself to start a restaurant.
+
+Problem:
+The customer is aiming to get a location in Los Angeles that is already booming with food business and where his restaurant would flourish.
+Thus it is required to analyze the best location in the city which would provide them with the maximum amount of profit and customers.
+
+Data Source: The data required for this project to solve this problem would be location data with postal codes and also data from the Foursquare API to explore around the areas that are to be considered for a candidate location.
+data source(Los Angeles location):the data is provided on the google search page which would be extracted and implemented i.e. https://www.google.com/search?client=opera-gx&sxsrf=ALeKk02PGE2dLD5FAr9Hnq3Y4aq54VVKsg%3A1598102984229&ei=yB1BX9bHDYeelwSfh7-4Dg&q=los+angeles+postcode+with+longitude+and+latitude&oq=los+angeles+postcode+wi&gs_lcp=CgZwc3ktYWIQAxgAMgQIIxAnOgQIABBHOgIIADoGCAAQFhAeUI69nwFYo8GfAWCQyZ8BaABwAXgAgAGsAogB3QWSAQUyLTIuMZgBAKABAaoBB2d3cy13aXrAAQE&sclient=psy-ab
