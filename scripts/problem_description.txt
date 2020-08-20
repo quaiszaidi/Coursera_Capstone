@@ -1,0 +1,3 @@
+This project would deal with a Customer trying to find the ideal place for himself to start a restaurant.
+The customer is aiming to get a location in Los Angeles that is already booming with food business and where his restaurant would flourish.
+Thus it is required to analyze the best location in the city which would provide them with the maximum amount of profit and customers.
